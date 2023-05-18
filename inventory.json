@@ -1,0 +1,63 @@
+{
+  "items": [
+    {
+      "name": "Lays",
+      "flavour": "Chile Lemon",
+      "price": "25 Rs",
+      "available": 1,
+      "img": "https://m.media-amazon.com/images/I/71DCs2yzAwL._SL1500_.jpg"
+    },
+    {
+      "name": "Bingo Mad Angles",
+      "flavour": "Very Peri Peri",
+      "price": "25 Rs",
+      "available": 2,
+      "img": "https://www.bigbasket.com/media/uploads/p/xxl/40129033-2_14-bingo-mad-angles-very-peri-peri.jpg"
+    },
+    {
+      "name": "Kurkure",
+      "flavour": "Masala Munch",
+      "price": "25 Rs",
+      "available": 5,
+      "img": "https://m.media-amazon.com/images/I/71LyKlizpuL._SX522_.jpg"
+    },
+    {
+      "name": "Maggi Masala",
+      "price": "20 Rs",
+      "available": 7,
+      "img": "https://m.media-amazon.com/images/I/81dpDHc95AL.jpg"
+    },
+    {
+      "name": "Brittania Bourbon",
+      "price": "30 Rs",
+      "available": 1,
+      "img": "https://m.media-amazon.com/images/I/61e1c44virL._SL1500_.jpg"
+    },
+    {
+      "name": "Cadbury Oreo",
+      "flavour": "Choco Creme",
+      "price": "40 Rs",
+      "available": 1,
+      "img": "https://m.media-amazon.com/images/I/71AbeChmf6L._SL1500_.jpg"
+    },
+    {
+      "name": "Parle Hide & Seek",
+      "flavour": "Chocolate",
+      "price": "35 Rs",
+      "available": 1,
+      "img": "https://www.jiomart.com/images/product/600x600/491062929/parle-hide-seek-chocolate-chip-cookies-100-g-product-images-o491062929-p491062929-0-202210201359.jpg"
+    },
+    {
+      "name": "Brittania Bourbon",
+      "price": "15 Rs",
+      "available": 2,
+      "img": "https://m.media-amazon.com/images/I/41T3gbYHXkL.jpg"
+    },
+    {
+      "name": "Cadbury Oreo",
+      "price": "15 Rs",
+      "available": 2,
+      "img": "https://5.imimg.com/data5/SC/AK/LJ/SELLER-19591746/cadbury-oreo-vanilla-creme-biscuit-50gm-mrp-rs-10-500x500.jpg"
+    }
+  ]
+}
